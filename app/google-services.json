@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422092621303",
+    "project_id": "localeats-8b914",
+    "storage_bucket": "localeats-8b914.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422092621303:android:be8444867d45f90cecdaf2",
+        "android_client_info": {
+          "package_name": "com.samvat.localeats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVJfRbNyIYtb8RBkpDZMLJU8CisXJNts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
